@@ -1,0 +1,30 @@
+<style>
+  	body{
+      background-color: #8c1515;
+    }
+  	h1 {
+  		color: antiquewhite;
+  		font-family: 'Courier New', Courier, monospace;
+  	}
+  	p {
+  		color: aqua;
+  	}
+  	h1.title2{
+  		color: yellow;
+  		font-size: 50px;
+  	}
+    button.btn1 {
+      background-color: ghostwhite;
+      color: green;
+      font-size: 30px;
+      padding: 40px 80px;
+    }
+    button.btn2 {
+      background-color: ghostwhite;
+      color: green;
+      font-size: 30px;
+      padding: 60px;
+    }
+
+
+  </style>
